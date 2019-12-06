@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchScratchBackOffice", "MatchScratchBackOffice\MatchScratchBackOffice.csproj", "{B67ADED2-F7DA-459E-97BB-B32FFFF4239E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B67ADED2-F7DA-459E-97BB-B32FFFF4239E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67ADED2-F7DA-459E-97BB-B32FFFF4239E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67ADED2-F7DA-459E-97BB-B32FFFF4239E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67ADED2-F7DA-459E-97BB-B32FFFF4239E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6FA6BC0-C46A-449A-8AC2-CC604A05B593}
+	EndGlobalSection
+EndGlobal
